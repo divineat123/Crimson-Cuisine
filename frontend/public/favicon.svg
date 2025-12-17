@@ -1,0 +1,23 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 100 100"
+>
+  <style>
+    text {
+      font-family: "Playfair Display", "Georgia", serif;
+      font-weight: 1000;                 /* extra thick */
+      fill: rgb(255, 91, 71);
+      letter-spacing: -6px;             /* brings CC closer */
+      height:50px;
+    }
+  </style>
+
+  <text
+    x="50"
+    y="70"
+    text-anchor="middle"
+    font-size="72"
+  >
+    CC
+  </text>
+</svg>

@@ -1,0 +1,41 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 900 300"
+  width="900"
+  height="300"
+>
+  <style>
+    .crimson {
+      font-family: "Playfair Display", "Georgia", serif;
+      font-size: 180px;
+      font-style: italic;
+      fill: rgb(255, 91, 71);
+    }
+    .cuisine {
+      font-family: "Montserrat", "Arial", sans-serif;
+      font-size: 78px;
+      letter-spacing: 8px;
+      fill: rgb(255, 91, 71);
+    }
+  </style>
+
+  <!-- Crimson -->
+  <text
+    x="450"
+    y="140"
+    text-anchor="middle"
+    class="crimson"
+  >
+    Crimson
+  </text>
+
+  <!-- Cuisine -->
+  <text
+    x="450"
+    y="210"
+    text-anchor="middle"
+    class="cuisine"
+  >
+    CUISINE
+  </text>
+</svg>
